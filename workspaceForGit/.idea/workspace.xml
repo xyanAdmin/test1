@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b0f8920-6e5b-4687-9259-82df05a92709" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test2020" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1anVIFzAdr85ZCoQq5cGImO42gI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test2020" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="test2020:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/test2020_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="test2020:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b0f8920-6e5b-4687-9259-82df05a92709" name="Default Changelist" comment="" />
+      <created>1587371262718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587371262718</updated>
+      <workItem from="1587371266790" duration="2493000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始导入">
+      <created>1587372477905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587372477905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始导入" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始导入" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="69" key="#Project_Structure" timestamp="1587371698190">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="388" y="69" key="#Project_Structure/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1587371698190" />
+    <state x="412" y="2" key="CommitChangelistDialog2" timestamp="1587372476398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="412" y="2" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1587372476398" />
+    <state x="576" y="152" key="FileChooserDialogImpl" timestamp="1587372224889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="576" y="152" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1587372224889" />
+    <state x="299" y="53" key="SettingsEditor" timestamp="1587372084600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="53" key="SettingsEditor/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1587372084600" />
+    <state x="388" y="144" key="Vcs.Push.Dialog.v2" timestamp="1587373168719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="388" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1587373168719" />
+    <state x="205" y="0" key="new project wizard" timestamp="1587371750719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="205" y="0" key="new project wizard/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1587371750719" />
+  </component>
+</project>
